@@ -91,7 +91,7 @@ function App() {
   return (
     <div className="vh-100 code flex flex-column items-center bg-purple white pa4 fl-1">
       <h1 className="f2-l">
-        GraphQL Checklist {" "}
+        Paola's Checklist {" "}
         <span role="img" aria-label="Checkmark">
           ✅
         </span>
